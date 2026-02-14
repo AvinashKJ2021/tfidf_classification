@@ -1,7 +1,7 @@
 # TF-IDF Text Classification
 
 This repository contains a Python implementation of a **text classification pipeline** using **TF-IDF (Term Frequency-Inverse Document Frequency)** features and machine learning models for supervised classification.  
-TF-IDF is a widely-used technique in natural language processing to convert text data into numerical representations that are suitable for machine learning models. :contentReference[oaicite:0]{index=0}
+TF-IDF is a widely-used technique in natural language processing to convert text data into numerical representations that are suitable for machine learning models. 
 
 ## 📌 Overview
 
